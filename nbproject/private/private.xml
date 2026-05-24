@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/didio/Documents/NetBeansProjects/EspetinhoBarbara/src/espetinhobarbara/EspetinhoBarbara.java</file>
+            <file>file:/C:/Users/didio/Documents/NetBeansProjects/EspetinhoBarbara/src/model/Produto.java</file>
+            <file>file:/C:/Users/didio/Documents/NetBeansProjects/EspetinhoBarbara/src/model/Cliente.java</file>
+            <file>file:/C:/Users/didio/Documents/NetBeansProjects/EspetinhoBarbara/src/model/Pedido.java</file>
+            <file>file:/C:/Users/didio/Documents/NetBeansProjects/EspetinhoBarbara/src/telas/TelaLogin.java</file>
+            <file>file:/C:/Users/didio/Documents/NetBeansProjects/EspetinhoBarbara/src/telas/TelaMenu.java</file>
+            <file>file:/C:/Users/didio/Documents/NetBeansProjects/EspetinhoBarbara/src/telas/TelaProdutos.java</file>
+            <file>file:/C:/Users/didio/Documents/NetBeansProjects/EspetinhoBarbara/src/telas/TelaPedidos.java</file>
+            <file>file:/C:/Users/didio/Documents/NetBeansProjects/EspetinhoBarbara/src/dao/Conexao.java</file>
+            <file>file:/C:/Users/didio/Documents/NetBeansProjects/EspetinhoBarbara/src/dao/ProdutoDAO.java</file>
+            <file>file:/C:/Users/didio/Documents/NetBeansProjects/EspetinhoBarbara/src/dao/ClienteDAO.java</file>
+            <file>file:/C:/Users/didio/Documents/NetBeansProjects/EspetinhoBarbara/src/dao/PedidoDAO.java</file>
+            <file>file:/C:/Users/didio/Documents/NetBeansProjects/EspetinhoBarbara/src/model/Entregador.java</file>
+            <file>file:/C:/Users/didio/Documents/NetBeansProjects/EspetinhoBarbara/src/model/Usuario.java</file>
+            <file>file:/C:/Users/didio/Documents/NetBeansProjects/EspetinhoBarbara/src/telas/TelaClientes.java</file>
+            <file>file:/C:/Users/didio/Documents/NetBeansProjects/EspetinhoBarbara/src/telas/TelaEntregas.java</file>
+        </group>
+    </open-files>
+</project-private>
